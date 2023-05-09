@@ -19,7 +19,6 @@
       <ul>
         <li><a href="customers.php">Transfer Money</a></li>
         <li><a href="transactions.php">Transaction History</a></li>
-        <li><a href="https://internship.thesparksfoundation.info/">About</a></li>
       </ul>
     </div>
   </nav>
